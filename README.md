@@ -26,6 +26,8 @@ if 'Age' in df.columns:
 else:
     print("Column 'Age' not found. Please choose an existing continuous variable.")
 
+<img width="841" height="547" alt="download" src="https://github.com/user-attachments/assets/21b69b5c-f4dd-4fc3-91eb-29c397ab6f93" />
+
 # Example 2: Bar chart for a categorical variable (e.g., 'Gender')
 if 'Gender' in df.columns:
     plt.figure(figsize=(8, 5))
@@ -37,8 +39,4 @@ if 'Gender' in df.columns:
 else:
     print("Column 'Gender' not found. Please choose an existing categorical variable.")
 
-
-
-
 <img width="686" height="470" alt="download" src="https://github.com/user-attachments/assets/79457368-817b-4de5-946f-a91842da6fee" />
-<img width="841" height="547" alt="download" src="https://github.com/user-attachments/assets/21b69b5c-f4dd-4fc3-91eb-29c397ab6f93" />
